@@ -44,7 +44,7 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: #265573 url(../imagens/cidade-p.jpg) no-repeat;    
+    background: #265573 url(/imagens/cidade-p.jpg) no-repeat;    
     background-size: cover;
     background-position: left center;
     height: 200px;
